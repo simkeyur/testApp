@@ -1,0 +1,16 @@
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\bin\Debug\Resources\icon.png
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\bin\Debug\testApp.xml
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\bin\Debug\testApp.exe
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\bin\Debug\testApp.pdb
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\obj\Debug\testApp.csprojResolveAssemblyReference.cache
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\obj\Debug\SurfaceWindow1.baml
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\obj\Debug\App.baml
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\obj\Debug\SurfaceWindow1.g.cs
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\obj\Debug\App.g.cs
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\obj\Debug\testApp_Content.g.cs
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\obj\Debug\testApp_MarkupCompile.cache
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\obj\Debug\testApp.g.resources
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\obj\Debug\testApp.Properties.Resources.resources
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\obj\Debug\testApp.csproj.GenerateResource.Cache
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\obj\Debug\testApp.exe
+c:\users\surface\documents\visual studio 2010\Projects\testApp\testApp\obj\Debug\testApp.pdb
